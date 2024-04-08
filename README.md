@@ -1,16 +1,30 @@
-# clockify
+# Clockify App
 
-A new Flutter project.
+* Clockify is a Flutter application that provides various clock functionalities including analog clock, digital clock, timer, stopwatch, and alarm clock.
 
-## Getting Started
+* Features
+* Analog Clock: Displays the current time in an analog format.
+* Digital Clock: Shows the current time in a digital format.
+* Timer: Allows users to set a countdown timer.
+* Stopwatch: Provides stopwatch functionality for measuring elapsed time.
+* Alarm Clock: Enables users to set alarms for specific times.
 
-This project is a starting point for a Flutter application.
+* Usage
+Describe how to use your application here. Provide any necessary instructions or explanations for users.
 
-A few resources to get you started if this is your first Flutter project:
+* Contributing
+Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+* Fork the repository.
+* Create a new branch (git checkout -b feature/yourfeature).
+* Make your changes.
+* Commit your changes (git commit -am 'Add some feature').
+* Push to the branch (git push origin feature/yourfeature).
+* Create a new Pull Request.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+https://github.com/Limbasiyakrupali/Clockify/assets/150001085/65497f0e-6ca7-4c9b-bbfb-09fa6d96d609
+
+
+
