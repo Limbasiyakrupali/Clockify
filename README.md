@@ -22,8 +22,6 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 * Push to the branch (git push origin feature/yourfeature).
 * Create a new Pull Request.
 
-
-
 https://github.com/Limbasiyakrupali/Clockify/assets/150001085/65497f0e-6ca7-4c9b-bbfb-09fa6d96d609
 
 
