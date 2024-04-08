@@ -24,7 +24,6 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 
 https://github.com/Limbasiyakrupali/Clockify/assets/150001085/65497f0e-6ca7-4c9b-bbfb-09fa6d96d609
 
-![Screenshot_20240407_220517](https://github.com/Limbasiyakrupali/Clockify/assets/150001085/f79a9a89-aad7-40e8-ba21-c8dbc6081f29)
 ![Screenshot_20240408_084923](https://github.com/Limbasiyakrupali/Clockify/assets/150001085/cd6c381e-4a41-4e8d-a99d-fa6a7aede6db)
 ![Screenshot_20240408_085120](https://github.com/Limbasiyakrupali/Clockify/assets/150001085/c5b8d63b-03e3-41cb-9e28-74226b86c944)
 ![Screenshot_20240408_085101](https://github.com/Limbasiyakrupali/Clockify/assets/150001085/c1e5b995-a51f-40f4-9ae1-a73ebad935e1)
